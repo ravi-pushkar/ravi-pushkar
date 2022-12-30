@@ -18,6 +18,9 @@ Feel free to reach out to me.
   <a href="https://www.instagram.com/ravi_pushkar_/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="https://www.facebook.com/profile.php?id=100088887258289">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
   <a href="https://twitter.com/ravi_pushkar_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
