@@ -24,6 +24,9 @@ Feel free to reach out to me.
   <a href="https://www.facebook.com/profile.php?id=100088887258289">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+  <a href="https://pin.it/3FxVHet">
+    <img src="https://img.shields.io/badge/Pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest Badge"/>
+  </a>
 </div>
 
 ---
