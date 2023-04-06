@@ -28,7 +28,7 @@ Feel free to reach out to me.
     <img src="https://img.shields.io/badge/Pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest Badge"/>
   </a>
   <a href="https://www.blogger.com/profile/15790539870833797868">
-    <img src="https://img.shields.io/badge/Pinterest-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger Badge"/>
+    <img src="https://img.shields.io/badge/Blogger-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger Badge"/>
   </a>
 </div>
 
